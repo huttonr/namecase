@@ -142,6 +142,7 @@
       .replace(/\bJR\s/,            "Jr")
       .replace(/\bSR\s/,            "Sr")
       .replace(/\bLT\s/,            "Lt")
+      .replace(/\bTY\s/,            "Ty")
 
 
     // lowercase words
